@@ -1,0 +1,1 @@
+# pedidos.supabase.vercel
